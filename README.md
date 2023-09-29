@@ -11,6 +11,8 @@
 [10. question 10](https://viblo.asia/p/java-se-8-oracle-certified-associate-1z0-808-cau-hoi-10-MkNLr1daJgA)<br>
 [11. question 11](https://viblo.asia/p/java-se-8-oracle-certified-associate-1z0-808-11-5OXLAPQMJGr)<br>
 [12. question 12](https://viblo.asia/p/java-se-8-oracle-certified-associate-1z0-808-12-obA46yxlVKv)<br>
+[13. question 13](https://viblo.asia/p/java-se-8-oracle-certified-associate-1z0-808-13-0gdJznb3Jz5)<br>
+[14. question 14](https://viblo.asia/p/java-se-8-oracle-certified-associate-1z0-808-14-2oKLn8B34QO)<br>
 
 ## Support me to writer more interesting docs
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ledangtuanbk)
